@@ -69,8 +69,32 @@ Altération des signaux chimiques au cerveau provoquant des **réponses inadapt�
 **230 victimes/an** imputables au cannabis. Risque multiplié par **1,8**.
 **Alcool** + **Cannabis** = risque **x14**.
 
+### Les médicaments
+
+Un grand nombre de médicaments qui semblent anodins ont un **effet indésirable sur la conduite**.
+3 niveau:
+- 1 (jaune) : Ne pas conduire sans avoir lu la notice
+- 2 (orange) : Ne pas conduire sans avis d'un médecin
+- 3 (rouge) : Ne pas conduire et demander l'avis d'un médecin pour la reprise
+
+La consommation d'alcool entraine un sur-risque.
+
+### Les sanctions
+
+_*Alcool*_
+
+|Contravention **>= 0,5g/L**  | Délit > 0,8g/L   |
+|-----------------------------|------------------|
+| -6pts                       | -6pts            |
+| 135€                        | jusqu'à 4500€    |
+| immobilisation véhicule     | immobilisation   |
+|                             | suspension 3 ans |
+|                             | prison 2 ans max |
+
 ## Fiche 10
 ===========
+
+
 
 ## Fiche 11
 ===========
